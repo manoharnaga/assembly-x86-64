@@ -21,7 +21,7 @@ $ ./a.out
 
 ### Sample Test Case
 **Input**: 153 5 \
-**Output**: 30 3 \
+**Output**: 30 3 
 
 
 <br>
@@ -43,7 +43,7 @@ $ ./a.out
 
 ### Sample Test Case
 **Input** : 24 39 \
-**Output**: 3 \
+**Output**: 3 
 
 <br>
 
@@ -64,7 +64,7 @@ $ ./a.out
 
 ### Sample Test Case
 **Input** : 13 \
-**Output**: TRUE \
+**Output**: TRUE 
 
 
 
@@ -86,7 +86,7 @@ $ ./a.out
 
 ### Sample Test Case
 **Input** : 24 \
-**Output**: 3 \
+**Output**: 3 
 
 <br>
 
